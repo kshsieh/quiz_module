@@ -4,5 +4,6 @@ Quiz Module for IndianRaga
 multiple choice quiz application for user engagement.
 
 features:
-audio/video
-tiered question difficulty
+------------------
+- audio/video/visual capabilities for embedded media
+- tiered question difficulty
